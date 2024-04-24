@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **Backend developers can code in their sleep**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
