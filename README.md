@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpatelmarkana&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpatelmarkana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilpatelmarkana" alt="sahilpatelmarkana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilpatelmarkana&theme=onedark" alt="sahilpatelmarkana" /></a> </p>
 
 - ⚡ Fun fact **Backend developers can code in their sleep**
 
